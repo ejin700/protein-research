@@ -1,7 +1,18 @@
-# protein-research
+# Protein Research
+Summer Research at the National Institute of Standards and Technology (NIST), Summer 2016
 
-This program datamines the UniProt website for sequences that have 
-experimentally proven n-linked glycosylation sites. It can also perform some statistical analysis on the output data. To use this program:
+## Background
+
+
+## Project Details
+This program data-mines the UniProt website for sequences that have experimentally proven n-linked glycosylation sites. It then expands the search and aligns all sequences of a given protein using the Clustal Omega alignment software. From there, it performs statistical analyses on the alignments to predict significant potential glycosylation sites.
+
+## Data Sources
+Protein sequencing data was taken from [UniProt](http://www.uniprot.org/).
+
+## Technology
+This program was written using Python 3. It uses the BioPython, tqdm, and Bioservices packages, and the Clustal Omega alignment software. In order to generate colored html files, the ansifilter program is run from the command line.
+
 
 1). Run info_tester.py
 	-requires BioPython, tqdm, Bioservices packages
