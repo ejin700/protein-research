@@ -1,0 +1,39 @@
+,Entry,Entry name,Status,Protein names,Gene names,Organism,Length
+2,P78363,ABCA4_HUMAN,reviewed,Retinal-specific ATP-binding cassette transporter (ATP-binding cassette sub-family A member 4) (RIM ABC transporter) (RIM protein) (RmP) (Stargardt disease protein),ABCA4 ABCR,Homo sapiens (Human),2273
+37,O35600,ABCA4_MOUSE,reviewed,Retinal-specific ATP-binding cassette transporter (ATP-binding cassette sub-family A member 4) (RIM ABC transporter) (RIM protein) (RmP),ABCA4 ABCR,Mus musculus (Mouse),2310
+539,F6TT59,F6TT59_HUMAN,unreviewed,Retinal-specific ATP-binding cassette transporter,ABCA4,Homo sapiens (Human),1065
+835,F6RLP0,F6RLP0_MACMU,unreviewed,Uncharacterized protein,ABCA4,Macaca mulatta (Rhesus macaque),2311
+851,F7F9D5,F7F9D5_CALJA,unreviewed,Uncharacterized protein,ABCA4,Callithrix jacchus (White-tufted-ear marmoset),543
+869,F7F0D3,F7F0D3_CALJA,unreviewed,Uncharacterized protein,ABCA4,Callithrix jacchus (White-tufted-ear marmoset),1065
+927,F6R1N0,F6R1N0_CALJA,unreviewed,Uncharacterized protein,ABCA4,Callithrix jacchus (White-tufted-ear marmoset),2274
+1059,F7H904,F7H904_CALJA,unreviewed,Uncharacterized protein,ABCA4,Callithrix jacchus (White-tufted-ear marmoset),980
+1091,F6RLM8,F6RLM8_MACMU,unreviewed,Uncharacterized protein,ABCA4,Macaca mulatta (Rhesus macaque),1419
+1206,M3XWB3,M3XWB3_MUSPF,unreviewed,Uncharacterized protein,ABCA4,Mustela putorius furo (European domestic ferret) (Mustela furo),2311
+1300,F1MWM0,F1MWM0_BOVIN,unreviewed,Uncharacterized protein,ABCA4,Bos taurus (Bovine),2281
+1355,F7DQZ0,F7DQZ0_ORNAN,unreviewed,Uncharacterized protein,ABCA4,Ornithorhynchus anatinus (Duckbill platypus),263
+1479,W5Q6N8,W5Q6N8_SHEEP,unreviewed,Uncharacterized protein,ABCA4,Ovis aries (Sheep),2281
+1585,H0XBN0,H0XBN0_OTOGA,unreviewed,Uncharacterized protein,ABCA4,Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby),2267
+1704,H2N6Q7,H2N6Q7_PONAB,unreviewed,Uncharacterized protein,ABCA4,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),2278
+1757,H2R1I8,H2R1I8_PANTR,unreviewed,Uncharacterized protein,ABCA4,Pan troglodytes (Chimpanzee),2273
+1831,M3WMS4,M3WMS4_FELCA,unreviewed,Uncharacterized protein,ABCA4,Felis catus (Cat) (Felis silvestris catus),1725
+1940,F6Y251,F6Y251_MONDO,unreviewed,Uncharacterized protein,ABCA4,Monodelphis domestica (Gray short-tailed opossum),2297
+2019,A0A096MWA5,A0A096MWA5_PAPAN,unreviewed,Uncharacterized protein,ABCA4,Papio anubis (Olive baboon),2275
+2078,A0A096NB46,A0A096NB46_PAPAN,unreviewed,Uncharacterized protein,ABCA4,Papio anubis (Olive baboon),1994
+2158,F7CTD0,F7CTD0_HORSE,unreviewed,Uncharacterized protein,ABCA4,Equus caballus (Horse),2285
+2270,G3T000,G3T000_LOXAF,unreviewed,Uncharacterized protein,ABCA4,Loxodonta africana (African elephant),2268
+2288,G3UHV9,G3UHV9_LOXAF,unreviewed,Uncharacterized protein,ABCA4,Loxodonta africana (African elephant),2308
+2386,A0A0D9S6Q4,A0A0D9S6Q4_CHLSB,unreviewed,Uncharacterized protein,ABCA4,Chlorocebus sabaeus (Green monkey) (Cercopithecus sabaeus),2275
+2474,F1S539,F1S539_PIG,unreviewed,Uncharacterized protein,ABCA4,Sus scrofa (Pig),2278
+2616,G1RJ86,G1RJ86_NOMLE,unreviewed,Uncharacterized protein,ABCA4,Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys),2279
+2659,F1PWT8,F1PWT8_CANLF,unreviewed,Uncharacterized protein,ABCA4,Canis lupus familiaris (Dog) (Canis familiaris),2283
+2756,J9P747,J9P747_CANLF,unreviewed,Uncharacterized protein,ABCA4,Canis lupus familiaris (Dog) (Canis familiaris),2134
+2782,F1P7E4,F1P7E4_CANLF,unreviewed,Uncharacterized protein,ABCA4,Canis lupus familiaris (Dog) (Canis familiaris),2268
+2820,G1LSU8,G1LSU8_AILME,unreviewed,Uncharacterized protein,ABCA4,Ailuropoda melanoleuca (Giant panda),2271
+2898,G3R0D7,G3R0D7_GORGO,unreviewed,Uncharacterized protein,ABCA4,Gorilla gorilla gorilla (Western lowland gorilla),2275
+2943,G1PMP3,G1PMP3_MYOLU,unreviewed,Uncharacterized protein,ABCA4,Myotis lucifugus (Little brown bat),2313
+2997,G1SXZ1,G1SXZ1_RABIT,unreviewed,Uncharacterized protein,ABCA4,Oryctolagus cuniculus (Rabbit),2238
+3143,Q3TLK5,Q3TLK5_MOUSE,unreviewed,Putative uncharacterized protein,ABCA4,Mus musculus (Mouse),291
+3151,D4AB29,D4AB29_RAT,unreviewed,"ATP-binding cassette, sub-family A (ABC1), member 4 (Predicted), isoform CRA_a (Protein Abca4)",ABCA4 ABCA4_PREDICTED RCG_28922,Rattus norvegicus (Rat),2290
+3333,H0VTF1,H0VTF1_CAVPO,unreviewed,Uncharacterized protein,ABCA4,Cavia porcellus (Guinea pig),2278
+3395,I3LWC8,I3LWC8_ICTTR,unreviewed,Uncharacterized protein,ABCA4,Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilus tridecemlineatus),2269
+3529,A0A0G2JGG8,A0A0G2JGG8_MOUSE,unreviewed,Retinal-specific ATP-binding cassette transporter,ABCA4,Mus musculus (Mouse),1102
